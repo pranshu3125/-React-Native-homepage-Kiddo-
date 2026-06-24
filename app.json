@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Kiddo SDUI",
+    "slug": "kiddo-sdui",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FF6B6B"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kiddo.sdui"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FF6B6B"
+      },
+      "package": "com.kiddo.sdui"
+    }
+  }
+}
